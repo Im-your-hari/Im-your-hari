@@ -1,4 +1,4 @@
-### ❤️✨IM-YOUR-HARI✨❤️
+# ❤️✨IM-YOUR-HARI✨❤️
 
 - 💻 COMPUTER SCIENCE AND ENGINEERING
 
@@ -8,7 +8,7 @@
 
 - 💬 ASK ME ABOUT TECH
 
-# 🪐 WEBSITES
+### 🪐 WEBSITES
   *[PERSONAL BLOG](https://jinn-pusthakam.blogspot.com/)
   *[PROFESSIONAL](https://wovenwebs.ml/)
   
