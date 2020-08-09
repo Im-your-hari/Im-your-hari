@@ -12,7 +12,10 @@
 * [PERSONAL BLOG](https://jinn-pusthakam.blogspot.com/)
 * [PROFESSIONAL](https://wovenwebs.ml/)
   
-- 📫 How to reach me: ...
+### ☄️ TOUCH ME
+* [WHATSAPP](https://wa.me/918157096325/?text=Hi Im-your-hari..This is from git...!)
+* [FACEBOOK](https://www.facebook.com/profile.php?id=100012457269072)
+* [INSTAGRAM](https://www.instagram.com/im_your_hari/)
 
 - ⚡ Fun fact: ...
 
