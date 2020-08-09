@@ -17,5 +17,5 @@
 * [FACEBOOK](https://www.facebook.com/profile.php?id=100012457269072)
 * [INSTAGRAM](https://www.instagram.com/im_your_hari/)
 
-- ⚡ Fun fact: ...
+#### 😷  STAY SAFE STAY HOME
 
