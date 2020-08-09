@@ -9,8 +9,8 @@
 - 💬 ASK ME ABOUT TECH
 
 ### 🪐 WEBSITES
-  *[PERSONAL BLOG](https://jinn-pusthakam.blogspot.com/)
-  *[PROFESSIONAL](https://wovenwebs.ml/)
+* [PERSONAL BLOG](https://jinn-pusthakam.blogspot.com/)
+* [PROFESSIONAL](https://wovenwebs.ml/)
   
 - 📫 How to reach me: ...
 
