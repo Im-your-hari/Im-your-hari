@@ -14,8 +14,8 @@
   
 ### ☄️ TOUCH ME
 * <img src="https://img.icons8.com/clouds/25/000000/whatsapp.png"/>[WHATSAPP](https://wa.me/918157096325/?text=Hi_Im-your-hari..This_is_from_git...!)
-* [FACEBOOK](https://www.facebook.com/profile.php?id=100012457269072)
-* [INSTAGRAM](https://www.instagram.com/im_your_hari/)
+* <img src="https://img.icons8.com/clouds/25/000000/facebook-new.png"/>[FACEBOOK](https://www.facebook.com/profile.php?id=100012457269072)
+* <img src="https://img.icons8.com/clouds/25/000000/instagram-new--v2.png"/>[INSTAGRAM](https://www.instagram.com/im_your_hari/)
 <hr>
 
 #### 😷 STAY SAFE STAY HOME
