@@ -11,8 +11,8 @@
 - 🚩 THE REAL COMMUNIST
 
 ### 🪐 WEBSITES
-* [PERSONAL BLOG](https://jinn-pusthakam.blogspot.com/)
-* [PROFESSIONAL](https://wovenwebs.ml/)
+* <img src="https://img.icons8.com/doodle/25/000000/blogger--v1.png"/>[PERSONAL BLOG](https://jinn-pusthakam.blogspot.com/)
+* <img src="https://img.icons8.com/nolan/25/world-of-warcraft.png"/>[PROFESSIONAL](https://wovenwebs.ml/)
   
 ### ☄️ TOUCH ME
 * <img src="https://img.icons8.com/clouds/25/000000/whatsapp.png"/>[WHATSAPP](https://wa.me/918157096325/?text=Hi_Im-your-hari..This_is_from_git...!)
