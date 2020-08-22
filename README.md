@@ -8,6 +8,8 @@
 
 - 💬 ASK ME ABOUT TECH
 
+- 🚩 THE REAL COMMUNIST
+
 ### 🪐 WEBSITES
 * [PERSONAL BLOG](https://jinn-pusthakam.blogspot.com/)
 * [PROFESSIONAL](https://wovenwebs.ml/)
