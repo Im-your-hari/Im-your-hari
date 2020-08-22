@@ -19,5 +19,5 @@
 <hr>
 
 #### 😷 STAY SAFE STAY HOME
-#### ✊ REJECT_EIA2020
+
 
