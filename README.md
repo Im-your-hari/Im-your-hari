@@ -8,6 +8,8 @@
 
 - 💬 ASK ME ABOUT TECH
 
+- 🎭 I'M NOT A HACKER...BUT I CAN😝
+
 - 🚩 THE REAL COMMUNIST
 
 ### 🪐 WEBSITES
