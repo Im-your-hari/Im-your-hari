@@ -21,6 +21,8 @@
 * <img src="https://img.icons8.com/clouds/25/000000/facebook-new.png"/>[FACEBOOK](https://www.facebook.com/profile.php?id=100012457269072)
 * <img src="https://img.icons8.com/clouds/25/000000/instagram-new--v2.png"/>[INSTAGRAM](https://www.instagram.com/im_your_hari/)
 <hr>
+[![Im-your-hari's github stats](https://github-readme-stats.vercel.app/api?username=Im-your-harih)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 
 #### 😷 STAY SAFE STAY HOME
 
