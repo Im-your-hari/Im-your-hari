@@ -23,6 +23,6 @@
 <hr>
 
 ```
-#### 😷 STAY SAFE STAY HOME
+😷 STAY SAFE STAY HOME
 ```
 
