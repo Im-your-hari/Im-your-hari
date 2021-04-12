@@ -22,7 +22,7 @@
 * <img src="https://img.icons8.com/clouds/25/000000/instagram-new--v2.png"/>[INSTAGRAM](https://www.instagram.com/im_your_hari/)
 <hr>
 
-
+```
 #### 😷 STAY SAFE STAY HOME
-
+```
 
