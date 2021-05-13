@@ -27,5 +27,9 @@
 ```
 
 ```
+💉 GET VACCINATED
+```
+
+```
 ❌ DONT COPY MY STYLES ❌
 ```
