@@ -25,7 +25,7 @@
 * <img src="https://img.icons8.com/clouds/25/000000/twitter.png"/>[TWITTER](https://twitter.com/HARIKRI38716276)
 * <img src="https://img.icons8.com/color/25/000000/gitlab.png"/>[GITLAB](https://gitlab.com/Im-your-hari)
 <hr>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-your-hari&show_icons=false&locale=en" alt="im-your-hari" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-your-hari&show_icons=true&locale=en" alt="im-your-hari" />
 
 <hr>
 
