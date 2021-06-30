@@ -25,7 +25,8 @@
 * <img src="https://img.icons8.com/clouds/25/000000/twitter.png"/>[TWITTER](https://twitter.com/HARIKRI38716276)
 * <img src="https://img.icons8.com/color/25/000000/gitlab.png"/>[GITLAB](https://gitlab.com/Im-your-hari)
 <hr>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-your-hari&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&locale=en" alt="im-your-hari" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=im-your-hari&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&locale=en" alt="im-your-hari" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-your-hari&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&locale=en&layout=compact" alt="im-your-hari" />
 
 <hr>
 
