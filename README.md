@@ -10,7 +10,7 @@
 
 - 🎭 I'M NOT A HACKER...BUT I CAN😝
 
-- 🚩 THE REAL COMMUNIST
+- 💡 CYBER & COMMUNICATION SECURITY IDEAS
 
 ### 🪐 WEBSITES
 * <img src="https://img.icons8.com/doodle/17/000000/blogger--v1.png"/>[PERSONAL BLOG](https://jinn-pusthakam.blogspot.com/)
