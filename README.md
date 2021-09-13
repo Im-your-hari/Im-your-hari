@@ -35,14 +35,15 @@
 
 </div>
 <hr>
-
+<center>
 <details>
     <summary>&#9733; <b>Git Stats</b>&#9733; </summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Im-your-hari)
 
 </details>
-
+</center>
+<hr>
 
 ```
 😷 STAY SAFE STAY HOME
