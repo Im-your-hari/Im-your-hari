@@ -28,7 +28,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-your-hari&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&locale=en" alt="im-your-hari" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-your-hari&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&locale=en&layout=compact" alt="im-your-hari" /><br>
 <div align="center">
-    <summary>&#127942 <b>Git-Activities</b></summary><br/>
+    <summary>&#9095 <b>Git-Activities</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/Im-your-hari?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
