@@ -1,4 +1,4 @@
-# ❤️✨IM-YOUR-HARI✨❤️
+# ✨HARIKRISHNAN KB✨
 
 - 💻 COMPUTER SCIENCE AND ENGINEERING
 
