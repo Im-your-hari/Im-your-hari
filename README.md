@@ -8,9 +8,7 @@
 
 - 💬 ASK ME ABOUT TECH
 
-- 🎭 I'M NOT A HACKER...BUT I CAN😝
-
-- 💡 CYBER & COMMUNICATION SECURITY IDEAS
+- 💡 LET'S DISCUSS CYBER & COMMUNICATION SECURITY IDEAS
 
 ### 🪐 WEBSITES
 * <img src="https://img.icons8.com/doodle/17/000000/blogger--v1.png"/>[PERSONAL BLOG](https://jinn-pusthakam.blogspot.com/)
